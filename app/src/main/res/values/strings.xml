@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticalTest2103</string>
+    <string name="str_list_search">Search Here</string>
+    <string name="str_about_me">About</string>
+    <string name="str_name">Name</string>
+    <string name="str_date">Date</string>
+</resources>
